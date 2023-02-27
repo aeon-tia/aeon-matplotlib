@@ -1,6 +1,6 @@
 # A'eon's Matplotlib Styles
 
-My personal matplotlib stylesheets.
+My personal matplotlib stylesheets. Designed to be used with a light background.
 
 # Use
 
