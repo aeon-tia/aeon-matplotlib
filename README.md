@@ -4,7 +4,7 @@ My personal matplotlib stylesheets.
 
 # Use
 
-In your `.matplotlib` folder, make a folder called `stylelib` and save these `.mplstyle` files in it.
+In your `.matplotlib` folder, make a folder called `stylelib` and save these `*.mplstyle` files in it.
 
 # Examples
 
