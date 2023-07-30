@@ -9,11 +9,11 @@
 
 # Figure-wide
 figure.facecolor: white
-lines.linewidth: 1.5
+lines.linewidth: 1
 lines.solid_capstyle: round
 lines.markersize: 6
 patch.linewidth: 1
-patch.edgecolor: dddddd
+patch.edgecolor: e5e9f0
 
 # Colors
 axes.prop_cycle: cycler('color', ["3bacc4", "d66779", "895fc0", "48b5b0", "5e91df", "ce5e64", "d97562", "bab1b2"])
@@ -21,45 +21,45 @@ image.cmap: magma
 
 # Axes
 axes.facecolor: white
-axes.edgecolor: 444444
-axes.labelcolor: 333333
+axes.edgecolor: 434C5E
+axes.labelcolor: 434C5E
 axes.axisbelow: True
 axes.grid: False
-axes.linewidth: 1.25
+axes.linewidth: 1
 axes.titlelocation: left
 axes.titleweight: bold
 
 # Grid
-grid.color: e0e0e0
+grid.color: eceff4
 grid.linestyle: -
 grid.linewidth: 1
 
 # Ticks
 xtick.direction: out
 ytick.direction: out
-xtick.color: 444444
-ytick.color: 444444
-xtick.labelcolor: 555555
-ytick.labelcolor: 555555
-xtick.major.width: 1.25
-ytick.major.width: 1.25
-xtick.minor.width: 1
-ytick.minor.width: 1
+xtick.color: 434C5E
+ytick.color: 434C5E
+xtick.labelcolor: 586377
+ytick.labelcolor: 586377
+xtick.major.width: 1
+ytick.major.width: 1
+xtick.minor.width: 0.75
+ytick.minor.width: 0.75
 xtick.major.size: 4.0
 ytick.major.size: 4.0
-xtick.minor.size: 2.5
-ytick.minor.size: 2.5
+xtick.minor.size: 2.75
+ytick.minor.size: 2.75
 
 # Font
-text.color: 555555
+text.color: 4C566A
 font.family: sans-serif
 font.sans-serif: Cronos Pro, Gill Sans Nova, Gill Sans MT, Gill Sans, Helvetica, Arial, DejaVu Sans, Bitstream Vera Sans, sans-serif
-font.size: 14
-axes.labelsize: 16
-axes.titlesize: 16
-xtick.labelsize: 14
-ytick.labelsize: 14
-legend.fontsize: 14
+font.size: 12
+axes.labelsize: 14
+axes.titlesize: 14
+xtick.labelsize: 12
+ytick.labelsize: 12
+legend.fontsize: 12
 
 # Legend
 legend.frameon: False

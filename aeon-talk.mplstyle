@@ -10,11 +10,11 @@
 
 # Figure-wide
 figure.facecolor: white
-lines.linewidth: 2.5
+lines.linewidth: 1.5
 lines.solid_capstyle: round
 lines.markersize: 9
 patch.linewidth: 1.5
-patch.edgecolor: dddddd
+patch.edgecolor: e5e9f0
 
 # Color cycle
 axes.prop_cycle: cycler('color', ["3bacc4", "d66779", "895fc0", "48b5b0", "5e91df", "ce5e64", "d97562", "bab1b2"])
@@ -22,8 +22,8 @@ image.cmap: magma
 
 # Axes
 axes.facecolor: white
-axes.edgecolor: 444444
-axes.labelcolor: 333333
+axes.edgecolor: 434c5e
+axes.labelcolor: 434c5e
 axes.axisbelow: True
 axes.grid: False
 axes.linewidth: 1.8
@@ -31,17 +31,17 @@ axes.titlelocation: left
 axes.titleweight: bold
 
 # Grid
-grid.color: dddddd
+grid.color: ECEFF4
 grid.linestyle: -
 grid.linewidth: 1.5
 
 # Ticks
 xtick.direction: out
 ytick.direction: out
-xtick.color: 444444
-ytick.color: 444444
-xtick.labelcolor: 555555
-ytick.labelcolor: 555555
+xtick.color: 434c5e
+ytick.color: 434c5e
+xtick.labelcolor: 586377
+ytick.labelcolor: 586377
 xtick.major.width: 1.8
 ytick.major.width: 1.8
 xtick.minor.width: 1.5
@@ -52,7 +52,7 @@ xtick.minor.size: 4.0
 ytick.minor.size: 4.0
 
 # Font
-text.color: 444444
+text.color: 4C566A
 font.family: sans-serif
 font.sans-serif: Cronos Pro, Gill Sans Nova, Gill Sans MT, Gill Sans, Helvetica, Arial, DejaVu Sans, Bitstream Vera Sans, sans-serif
 font.size: 16
