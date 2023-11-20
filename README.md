@@ -8,20 +8,39 @@ In your `.matplotlib` folder, make a folder called `stylelib` and save these `*.
 
 # Examples
 
-## aeon
-![ex-default](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/0243895d-7671-463f-ba19-d1aaa3799d29)
+<details>
+  <summary>aeon</summary>
 
-## aeon-light
-![ex-light](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/5d69db03-d036-4770-9f1b-e994137484cf)
+  ![aeon](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/14a65445-6be1-4146-bc43-7290cf1894c9)
+</details>
 
-## aeon-dark
-![ex-dark](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/1e765ec8-f074-42df-b397-3be13929ae9e)
+<details>
+  <summary>aeon-talk</summary>
 
-## aeon-talk
-![ex-default-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/9b2813f7-0a95-4a13-84f4-cfaec14b04e8)
+  ![aeon-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/0ba6d3c8-d696-4127-8ba3-b7a32d08c500)
+</details>
 
-## aeon-light-talk
-![ex-light-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/d93388dc-c7fe-466e-bc43-b67f7742febe)
+<details>
+  <summary>aeon-light</summary>
 
-## aeon-dark-talk
-![ex-dark-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/1efea123-a0a7-472f-b476-eea8df2e9b32)
+  ![aeon-light](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/fc957887-1bd1-4429-a5f1-677723b7c6bc)
+</details>
+
+<details>
+  <summary>aeon-light-talk</summary>
+
+  ![aeon-light-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/5af45838-2d37-4d02-82ea-8058632980fc)
+</details>
+
+<details>
+  <summary>aeon-dark</summary>
+
+  ![aeon-dark](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/e3ebb043-7437-4301-abb7-3b81e5c56c52)
+</details>
+
+<details>
+  <summary>aeon-dark-talk</summary>
+
+  ![aeon-dark-talk](https://github.com/aeon-tia/aeon-matplotlib/assets/33649177/23d649d0-b3a6-4a2e-9549-b961c86f92db)
+</details>
+
