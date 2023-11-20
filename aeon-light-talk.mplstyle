@@ -1,11 +1,7 @@
-# A light Nord themed matplotlib style.
-# This style with larger elements, suitable for talks.
-#
+# ---------------------------------------------------------
 # Inspired by Seaborn whitegrid and the Nord theme:
 # https://www.nordtheme.com/
 # https://seaborn.pydata.org/
-#
-# GC
 #----------------------------------------------------------
 
 # Figure-wide
@@ -21,8 +17,10 @@ axes.prop_cycle: cycler('color', ["3bacc4", "d66779", "895fc0", "48b5b0", "5e91d
 image.cmap: magma
 
 # Axes
+axes.spines.top: False
+axes.spines.right: False
 axes.facecolor: white
-axes.edgecolor: ABB9CF
+axes.edgecolor: C2CCDC
 axes.labelcolor: 434c5e
 axes.axisbelow: True
 axes.grid: False
@@ -38,8 +36,8 @@ grid.linewidth: 1.5
 # Ticks
 xtick.direction: out
 ytick.direction: out
-xtick.color: ABB9CF
-ytick.color: ABB9CF
+xtick.color: C2CCDC
+ytick.color: C2CCDC
 xtick.labelcolor: 4c566a
 ytick.labelcolor: 4c566a
 xtick.major.width: 1.8
@@ -69,3 +67,8 @@ legend.scatterpoints: 1
 
 # Scatter plots
 scatter.edgecolors: face
+
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False

@@ -1,10 +1,7 @@
-# A dark Nord themed matplotlib style.
-#
+# ---------------------------------------------------------
 # Inspired by Seaborn whitegrid and the Nord theme:
 # https://www.nordtheme.com/
 # https://seaborn.pydata.org/
-#
-# GC
 #----------------------------------------------------------
 
 # Figure-wide
@@ -20,6 +17,8 @@ axes.prop_cycle: cycler('color', ["3bacc4", "d66779", "895fc0", "48b5b0", "5e91d
 image.cmap: magma
 
 # Axes
+axes.spines.top: False
+axes.spines.right: False
 axes.facecolor: 2e3440
 axes.edgecolor: 4c566a
 axes.labelcolor: e5e9f0
@@ -65,3 +64,11 @@ legend.fontsize: 12
 legend.frameon: False
 legend.numpoints: 1
 legend.scatterpoints: 1
+
+# Scatter plots
+scatter.edgecolors: face
+
+# Boxplots
+boxplot.showcaps: False
+boxplot.showbox: False
+boxplot.showfliers: False
