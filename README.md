@@ -1,6 +1,6 @@
 # A'eon's Matplotlib Styles
 
-My personal matplotlib stylesheets. Data color palette by me, colors for text and background elements from [Nord](https://www.nordtheme.com/docs/colors-and-palettes).
+My personal matplotlib stylesheets. Data color palette by me, colors for text and background elements from [ayu](https://github.com/dempfi/ayu).
 
 # Use
 
