@@ -1,6 +1,5 @@
 # ---------------------------------------------------------
-# Inspired by Seaborn whitegrid and the Nord theme:
-# https://www.nordtheme.com/
+# Inspired by Seaborn whitegrid and GitHub's Primer colors
 # https://seaborn.pydata.org/
 # ---------------------------------------------------------
 
@@ -10,65 +9,57 @@ lines.linewidth: 1
 lines.solid_capstyle: round
 lines.markersize: 6
 patch.linewidth: 1
-patch.edgecolor: "#f6f8fa"
-
+patch.edgecolor: "#d1d7e0"
 # Colors
-axes.prop_cycle: cycler('color', ["#5490bb", "#e47d72", "#63bfbb", "#d3697b", "#9169ba", "#e6b370", "#abb9cf"])
+axes.prop_cycle: cycler("color", ["#4383b1", "#dc7267", "#49aaa6", "#8351b6", "#c95165", "#d9a259", "#949bab"])
 image.cmap: magma
-
 # Axes
 axes.spines.top: False
 axes.spines.right: False
 axes.facecolor: white
-axes.edgecolor: "#afb8c1"
-axes.labelcolor: "#424a53"
+axes.edgecolor: "#b7bdc8"
+axes.labelcolor: "#454c54"
 axes.axisbelow: True
 axes.grid: False
 axes.linewidth: 1
 axes.titlelocation: left
 axes.titleweight: bold
-
 # Grid
-grid.color: "#eaeef2"
+grid.color: "#e4eaf6"
 grid.linestyle: -
 grid.linewidth: 1
-
 # Ticks
-xtick.direction: out
-ytick.direction: out
-xtick.color: "#afb8c1"
-ytick.color: "#afb8c1"
-xtick.labelcolor: "#6e7781"
-ytick.labelcolor: "#6e7781"
+xtick.direction: inout
+ytick.direction: inout
+xtick.color: "#b7bdc8"
+ytick.color: "#b7bdc8"
+xtick.labelcolor: "#59636e"
+ytick.labelcolor: "#59636e"
 xtick.major.width: 1
 ytick.major.width: 1
 xtick.minor.width: 0.75
 ytick.minor.width: 0.75
-xtick.major.size: 4.0
-ytick.major.size: 4.0
-xtick.minor.size: 2.75
-ytick.minor.size: 2.75
-
+xtick.major.size: 5.0
+ytick.major.size: 5.0
+xtick.minor.size: 3.0
+ytick.minor.size: 3.0
 # Font
-text.color: "#424a53"
+text.color: "#393f46"
 font.family: sans-serif
 font.sans-serif: Cronos Pro, Myriad Pro, Inter, Helvetica, Arial, sans-serif
-mathtext.fontset: stixsans
+mathtext.fontset: cm
 font.size: 12
 axes.labelsize: 14
 axes.titlesize: 14
 xtick.labelsize: 12
 ytick.labelsize: 12
 legend.fontsize: 12
-
 # Legend
 legend.frameon: False
 legend.numpoints: 1
 legend.scatterpoints: 1
-
 # Scatter plots
 scatter.edgecolors: face
-
 # Boxplots
 boxplot.showcaps: False
 boxplot.showbox: False
